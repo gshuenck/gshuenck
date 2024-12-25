@@ -1,5 +1,5 @@
-<h1 align="center">Olá! Eu sou Gilmar Shuenck 👋</h1>
-<h3 align="center">Desenvolvedor Full Stack apaixonado por tecnologia, inovação e aprendizado contínuo.</h3>
+<h1 align="center">Hello! I'm Gilmar Shuenck 👋</h1>
+<h3 align="center">Full Stack Developer passionate about technology, innovation, and continuous learning.</h3>
 
 <div align="center">
   <a href="https://github.com/gshuenck">
@@ -38,5 +38,5 @@
 ---
 
 <div align="center">
-  🌟 "Apaixonado por tecnologia, sempre em busca de novos desafios e aprendizados!" 🌟
+  🌟 "Passionate about technology, always looking for new challenges and learning opportunities!" 🌟
 </div>
